@@ -1,1 +1,1 @@
-# Extens-es
+# Extensões do Visual Studio Code
